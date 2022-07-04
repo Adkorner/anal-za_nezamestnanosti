@@ -1,2 +1,1 @@
 # analýza_nezamestnanosti
-* ahoj
